@@ -1,0 +1,4 @@
+name = "BatchPrior"
+uuid = "a72e7f22-3c07-11e9-19ff-63d1244da1c4"
+authors = ["Vincent Moens <Vincent.Moens@aig.com>"]
+version = "0.1.0"
